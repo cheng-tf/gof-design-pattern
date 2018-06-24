@@ -6,9 +6,33 @@
     <groupId>cn.edu.bupt.opensource</groupId>
     <artifactId>gof-design-pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
     <modules>
         <module>_0-static-factory-method</module>
+        <module>_1-facade</module>
+        <module>_2-adapter</module>
     </modules>
-    <packaging>pom</packaging>
+    
+    <parent>
+        <!-- Parent Starter -->
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.2.RELEASE</version>
+        <relativePath/>
+    </parent>
+
+    <dependencies>
+        <!-- Web Starter -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+        <!-- Test Starter -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
 
 </project>
