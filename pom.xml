@@ -12,6 +12,7 @@
         <module>_1-facade</module>
         <module>_2-adapter</module>
         <module>_3-singleton</module>
+        <module>_4-factory-method</module>
     </modules>
     
     <parent>
