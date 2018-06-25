@@ -11,6 +11,7 @@
         <module>_0-static-factory-method</module>
         <module>_1-facade</module>
         <module>_2-adapter</module>
+        <module>_3-singleton</module>
     </modules>
     
     <parent>
