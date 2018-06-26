@@ -16,6 +16,7 @@
         <module>_5-abstract-factory</module>
         <module>_6-builder</module>
         <module>_7-prototype</module>
+        <module>_8-mediator</module>
     </modules>
     
     <parent>
