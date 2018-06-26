@@ -14,6 +14,7 @@
         <module>_3-singleton</module>
         <module>_4-factory-method</module>
         <module>_5-abstract-factory</module>
+        <module>_6-builder</module>
     </modules>
     
     <parent>
