@@ -21,6 +21,7 @@
         <module>_9-proxy</module>
         <module>_10-observer</module>
         <module>_11-command</module>
+        <module>_12-iterator</module>
     </modules>
     
     <parent>
