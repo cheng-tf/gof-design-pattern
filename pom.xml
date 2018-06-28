@@ -23,6 +23,7 @@
         <module>_11-command</module>
         <module>_12-iterator</module>
         <module>_13-composite</module>
+        <module>_14-template-method</module>
     </modules>
     
     <parent>
