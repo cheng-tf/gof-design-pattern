@@ -22,6 +22,7 @@
         <module>_10-observer</module>
         <module>_11-command</module>
         <module>_12-iterator</module>
+        <module>_13-composite</module>
     </modules>
     
     <parent>
