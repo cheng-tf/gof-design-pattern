@@ -29,6 +29,7 @@
         <module>_17-memento</module>
         <module>_18-flyweight</module>
         <module>_19-interpreter</module>
+        <module>_20-decorator</module>
     </modules>
     
     <parent>
