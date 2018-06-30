@@ -25,6 +25,7 @@
         <module>_13-composite</module>
         <module>_14-template-method</module>
         <module>_15-strategy</module>
+        <module>_16-state</module>
     </modules>
     
     <parent>
