@@ -32,6 +32,7 @@
         <module>_20-decorator</module>
         <module>_21-handler</module>
         <module>_22-bridge</module>
+        <module>_23-visitor</module>
     </modules>
     
     <parent>
