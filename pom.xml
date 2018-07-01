@@ -30,6 +30,7 @@
         <module>_18-flyweight</module>
         <module>_19-interpreter</module>
         <module>_20-decorator</module>
+        <module>_21-handler</module>
     </modules>
     
     <parent>
